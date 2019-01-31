@@ -1,6 +1,7 @@
 # Prediction of Grocery Store Sales Using Spatial Interaction Modelling (SIM)
-<hr>
-This project is inspired by the Spatial Modelling for Retail Analytics course offered by the [Consumer Data Research Center](https://www.cdrc.ac.uk/) I recently attended. The course was held by [Dr. Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing) and [Dr. Nick Hood](https://environment.leeds.ac.uk/geography/staff/1051/dr-nick-hood). Andy and Nick did a wanderful job at introducing the class to sophisticated analysis and spatial modelling approaches that can be used to understand retail sector dynamics. Please check out all the CDRC courses and events [here](https://www.cdrc.ac.uk/events/).
+
+This project is inspired by the Spatial Modelling for Retail Analytics course offered by the 
+[Consumer Data Research Center](https://www.cdrc.ac.uk) I recently attended. The course was held by [Dr. Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing) and [Dr. Nick Hood](https://environment.leeds.ac.uk/geography/staff/1051/dr-nick-hood). Andy and Nick did a wanderful job at introducing the class to sophisticated analysis and spatial modelling approaches that can be used to understand retail sector dynamics. Please check out all the CDRC courses and events [here](https://www.cdrc.ac.uk/events).
 
 The technique that stood out the most to me was **Spatial Interaction Modelling**. This technique is used in social sciences to predict and describe behaviours that mimic gravitation interactions as described by Isaac Newton's law of gravity. 
 
@@ -14,4 +15,4 @@ Spatial interaction models seek to explain spatial flows between **origins** and
 Please read the jupyter notebook for more information.
 
 ### Important:
-This analysis is an adaptation of Dr. Andy Newing's and Dr. Nick Hood's example projects at the CDRC course on Spacial Modelling for Retail Analytics. During the course the computations were made in Excel, [I'm an inline-style link](https://www.google.com)I just applied the same models and ideas to a different dataset and modelled the analysis in Python.
+This analysis is an adaptation of Dr. Andy Newing's and Dr. Nick Hood's example projects at the CDRC course on Spacial Modelling for Retail Analytics. During the course the computations were made in Excel, I just applied the same models and ideas to a different dataset and modelled the analysis in Python.
