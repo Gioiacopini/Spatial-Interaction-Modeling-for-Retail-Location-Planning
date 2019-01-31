@@ -16,3 +16,4 @@ Please read the jupyter notebook for more information.
 ### Important:
 This analysis is an adaptation of Dr. Andy Newing's and Dr. Nick Hood's example projects at the CDRC course on Spacial Modelling for Retail Analytics. During the course the computations were made in Excel, I just applied the same models and ideas to a different dataset and modelled the analysis in Python. 
 
+[I'm an inline-style link](https://www.google.com)
