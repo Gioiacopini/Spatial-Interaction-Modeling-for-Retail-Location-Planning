@@ -11,25 +11,7 @@ Three independent conditions are necessary for spatial interaction to occur:
 
 Spatial interaction models seek to explain spatial flows between **origins** and **destinations**. In this example, the aim is to predict the flow of money into Sheffield grocery stores, given their location, and the available expenditure of the consumers in the modelled area. 
 
-The relationship between money flow, destinations and origins is given by the equation below: 
-
-$$ S_{ij} = A_iO_iW_j exp(-\beta C_{ij}) $$
-
-Where, 
-
-* $S_{ij}$ = flow of expected flow of supermarket $j$ from orgin $i$ 
-
-* $A_i$ = balancing factor that takes into account competition and ensures that demand is allocated to stores within the modelled region. it is calculated as: 
-
-$$ A_i = \frac{1}{\sum W_j exp (-\beta C_{ij})}$$
- 
-* $W_j$ = represents the overall attractiveness of store j. In this case size is used as a proxy of attractiveness. 
-* $exp(-\beta C_{ij})$ = represents the distance deterrence term. $\beta$ is between 0 and 1. $\beta$ = 0 means that the consumer does not mind travelling. $\beta$ = 1 means that the consumer does not want to travel. $C_ij$ represents the distance between origin and supermarket. 
-
-
-
-
-
+Please read the jupyter notebook for more information.
 
 ### Important:
 This analysis is an adaptation of Dr. Andy Newing's and Dr. Nick Hood's example projects at the CDRC course on Spacial Modelling for Retail Analytics. During the course the computations were made in Excel, I just applied the same models and ideas to a different dataset and modelled the analysis in Python. 
