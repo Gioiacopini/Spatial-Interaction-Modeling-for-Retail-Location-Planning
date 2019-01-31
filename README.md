@@ -12,7 +12,7 @@ Three independent conditions are necessary for spatial interaction to occur:
 
 Spatial interaction models seek to explain spatial flows between **origins** and **destinations**. In this example, the aim is to predict the flow of money into Sheffield grocery stores, given their location, and the available expenditure of the consumers in the modelled area. 
 
-Please read the jupyter notebook for more information.
+Please read the jupyter notebook or [here](https://gioiacopini.github.io/Prediction%20of%20Grocery%20Store%20Sales%20Using%20SIM%20(Spatial%20Interaction%20Modelling).html) for more information.
 
 ### Important:
 This analysis is an adaptation of Dr. Andy Newing's and Dr. Nick Hood's example projects at the CDRC course on Spacial Modelling for Retail Analytics. During the course the computations were made in Excel, I just applied the same models and ideas to a different dataset and modelled the analysis in Python.
